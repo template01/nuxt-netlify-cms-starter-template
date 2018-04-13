@@ -12,21 +12,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/renestalder/nuxt-netlify-cms-starter-template.git"
+    "url": "git+https://github.com/template01/nuxt-netlify-cms-starter-template.git"
   },
   "keywords": [
     "nuxt",
+    "nuxtent",
     "vuejs",
     "netlify",
     "serverless",
     "jamstack"
   ],
-  "author": "René Stalder <renestalder@protonmail.com>",
+  "author": "René Stalder <renestalder@protonmail.com>, Lasse Christensen <lasse@template-studio.nl>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/renestalder/nuxt-netlify-cms-starter-template/issues"
+    "url": "https://github.com/template01/nuxt-netlify-cms-starter-template/issues"
   },
-  "homepage": "https://github.com/renestalder/nuxt-netlify-cms-starter-template#readme",
+  "homepage": "https://github.com/template01/nuxt-netlify-cms-starter-template#readme",
   "devDependencies": {
     "@vue/cli": "^3.0.0-beta.6",
     "@vue/cli-init": "^3.0.0-beta.6"
